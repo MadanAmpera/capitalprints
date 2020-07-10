@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Capital Prints</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div style="display: flex;justify-content: space-between; background-color: cornflowerblue;">
+            <p>Customer Orders</p>
+            <p>CP</p>
+            <p>Help</p>
+        </div>
+        <div style="margin-top: 20px; display: flex; justify-content: flex-start;">
+            <label>Customer Company:</label>
+            <select name="company" id="company">
+                
+            </select>
+            <button onclick="showData()">
+                Show
+            </button>
+        </div>
+
+        <div>
+            <label>Orders:</label>
+            <input type="text"></input>
+            <table id="orders">
+                
+            </table>
+        </div>
+
+        <script src="/script.js"></script>
+        <script type="text/javascript">
+            getCustomers();
+        </script>
+    </body>
+</html>
+
+<!-- 
+TODO: confirm the fields
+TODO: search functionality
+    TODO: search text field
+    TODO: search button
+    TODO: search results in table
+TODO: styling the prototype
+
+Take a break now, yes, start back home?
+
+-->

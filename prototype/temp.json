@@ -1,0 +1,104 @@
+{
+    "meta": {
+      "page": 1,
+      "per_page": 25,
+      "total_count": 1,
+      "total_pages": 1
+    },
+    "data": [
+      {
+        "sales_tax": 5,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3966465,
+        "user_id": 33980,
+        "orderstatus_id": 162391,
+        "public_hash": "c257e9541fd77b8a3347d97a6675b079",
+        "production_notes": "",
+        "order_nickname": "",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 7,
+        "stats": {
+          "paid": false
+        },
+        "notes": "",
+        "created_at": "2020-07-08T04:36:52.057Z",
+        "custom_created_at": "2020-07-07T05:00:00.000Z",
+        "updated_at": "2020-07-08T04:36:52.057Z",
+        "due_date": "2020-07-07T15:00:00.000Z",
+        "order_total": 105,
+        "order_subtotal": 100,
+        "customer_due_date": "2020-07-07T15:00:00.000Z",
+        "payment_term_id": null,
+        "invoice_date": "2020-07-07T05:00:00.000Z",
+        "payment_due_date": "2020-07-07T05:00:00.000Z",
+        "delivery_method_id": null,
+        "customer": {
+          "full_name": "Brian Schmidt",
+          "first_name": "Brian",
+          "last_name": "Schmidt",
+          "company": "ANU"
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16096019,
+            "address1": "Atlanta, GA, USA",
+            "address2": "",
+            "city": "Canberra",
+            "state": "",
+            "country": "AU",
+            "zip": "2601"
+          },
+          {
+            "id": 16096020,
+            "address1": "Atlanta, GA, USA",
+            "address2": "",
+            "city": "Canberra",
+            "state": "",
+            "country": "AU",
+            "zip": "2601"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "Quote",
+          "color": "#47A0D9"
+        },
+        "user": {
+          "name": "Madan Amperayani"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18125590,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "size_other": null,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": 10,
+            "size_l": null,
+            "size_xl": null,
+            "total_quantities": 10,
+            "goods_status": "",
+            "unit_cost": 10,
+            "category": "Signing"
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4783625",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007f303d1efa68%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 105,
+        "public_url": "https://www.printavo.com/invoice/c257e9541fd77b8a3347d97a6675b079",
+        "pdf": "https://www.printavo.com/invoice/c257e9541fd77b8a3347d97a6675b079.pdf",
+        "workorder": "https://www.printavo.com/invoices/4783625/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4783625/packing_slip"
+      }
+    ]
+  }
