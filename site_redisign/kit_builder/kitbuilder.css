@@ -1,0 +1,33 @@
+.path{
+    background-color: rgb(230,233,232);
+    padding: 10px;
+}
+
+.page-content{
+	padding-top:8.11111rem;
+}
+
+.page-heading{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.new-font{
+	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
+	text-transform: none !important;
+}
+
+.btn:hover{
+	color: #fff !important;
+  background-color: #00aeef !important;
+  border-color: #00aeef !important;
+	cursor: default !important;
+}
+
+.btn-blue:hover{
+	color: #fff !important;
+  background-color: #00aeef !important;
+  border-color: #00aeef !important;
+	cursor: default !important;
+}

@@ -1,0 +1,77 @@
+.page-content{
+	padding: 139px 0 0 !important;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 645px 645px 645px;
+  grid-template-rows: 430px 430px;
+}
+
+.img-holder{
+    width: 645px;
+    height: 430px;
+    overflow: hidden;
+		font-size: 52px;
+    font-family: "Druk", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    cursor: pointer;
+}
+
+.img-landscape{
+    height: 430px;
+    width: 645px;
+}
+
+.img-portrait{
+    height: 967px;
+    width: 645px;
+}
+
+.overlay-first{
+    position: absolute;
+    top: 140px;
+    left:20px;
+		color:white;
+}
+
+.overlay-second{
+    position: absolute;
+    top: 340px;
+    left:900px;
+    text-align: right;
+		color:white;
+}
+
+.overlay-third{
+    position: absolute;
+    top: 160px;
+    left:1680px;
+    text-align: right;
+		color:white;
+}
+
+.overlay-fourth{
+    position: absolute;
+    top: 840px;
+    left:20px;
+		color:white;
+}
+
+.overlay-fifth{
+    position: absolute;
+    top: 580px;
+    left:660px;
+		color:white;		
+}
+
+.overlay-sixth{
+    position: absolute;
+    top: 820px;
+    left:1600px;
+    text-align: right;
+		color:white;
+}
+
+.flip-in-hor-bottom{animation:flip-in-hor-bottom 1s cubic-bezier(.25,.46,.45,.94) both}
+
+@keyframes flip-in-hor-bottom{0%{transform:rotateX(80deg);opacity:0}100%{transform:rotateX(0);opacity:1}}
