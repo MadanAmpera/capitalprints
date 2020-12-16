@@ -1,0 +1,81 @@
+.tab-text {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.halfwidth {
+  width: 40vw;
+  margin-left: 1vw;
+  font-family: "Proxima Nova", "Helvetica Neue", Arial;
+}
+.btn-sm{
+	border-radius:0.2rem !important;
+	font-weight:bold !important;
+}
+.cognito {
+  max-width: 60vw !important;
+}
+table {
+  color: #000000 !important;
+}
+
+.btn-clear-outline-primary {
+  color: #00aeef;
+  border-color: #00aeef;
+}
+.btn-clear-outline-primary:hover {
+  color: #fff;
+  background-color: #00aeef;
+  border-color: #00aeef;
+}
+
+.btn-filter-primary {
+  color: #fff;
+  border-color: #00aeef;
+  background-color: #00aeef;
+}
+.btn-filter-primary:hover {
+  color: #00aeef;
+  background-color: #fff;
+  border-color: #00aeef;
+}
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #00aeef;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+}
+
+.page-link:hover {
+  z-index: 2;
+  color: #00aeef;
+  text-decoration: none;
+  background-color: #e9ecef;
+  border-color: #dee2e6;
+}
+
+.page-link:focus {
+  z-index: 2;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 174, 239, 0.25);
+}
+
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff;
+  background-color: #00aeef;
+  border-color: #00aeef;
+}
+
+.form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #00aeef;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 174, 239, 0.25);
+}

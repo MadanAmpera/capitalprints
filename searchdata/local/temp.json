@@ -1,0 +1,3051 @@
+{
+    "meta": {
+      "page": 1,
+      "per_page": 25,
+      "total_count": 364,
+      "total_pages": 15
+    },
+    "data": [
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 152846,
+        "public_hash": "8557928e927f65b5fb57406597050ad9",
+        "production_notes": "<div>Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/44\">https://www.cognitoforms.com/CapitalPrints1/61/entries/44</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#5ZZVzpQh2I8n3lSfHG66Lv18k5slNHhBn5YdbDwZi-A\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#5ZZVzpQh2I8n3lSfHG66Lv18k5slNHhBn5YdbDwZi-A</a>$*<br><br><strong>PLEASE NOTE BUFFER AROUND LOGO TO BE CHANGED DEPENDING ON GARMENT COLOUR</strong></div>",
+        "order_nickname": "Unearth Electrics - HP44",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10971,
+        "stats": {
+          "paid": false,
+          "paid_date": "2020-06-16"
+        },
+        "notes": "",
+        "created_at": "2020-08-03T03:16:52.540Z",
+        "updated_at": "2020-08-06T05:37:04.346Z",
+        "due_date": "2020-08-07T06:00:00.000Z",
+        "order_total": 61.6,
+        "order_subtotal": 56,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16348139,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16348140,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Ready to Print",
+          "color": "#54D100"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18635286,
+            "style_description": "Grey Marle",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 1,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 1,
+            "goods_status": "",
+            "unit_cost": 7,
+            "category": null
+          },
+          {
+            "id": 18635287,
+            "style_description": "navy ",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 2,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 2,
+            "goods_status": "",
+            "unit_cost": 7,
+            "category": null
+          },
+          {
+            "id": 18635291,
+            "style_description": "Hi vis Orange",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 5,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 5,
+            "goods_status": "",
+            "unit_cost": 7,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4911507",
+        "customer_due_date": "2020-08-07T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-03T00:00:00.000+10:00",
+        "invoice_date": "2020-08-03T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-10T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/03/2020",
+        "formatted_customer_due_date": "08/07/2020",
+        "formatted_payment_due_date": "08/10/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea3a244a8%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 61.6,
+        "public_url": "https://www.printavo.com/invoice/8557928e927f65b5fb57406597050ad9",
+        "pdf": "https://www.printavo.com/invoice/8557928e927f65b5fb57406597050ad9.pdf",
+        "workorder": "https://www.printavo.com/invoices/4911507/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4911507/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 34331,
+        "orderstatus_id": 152847,
+        "public_hash": "056e6c32c91c3e6d12e4d2a53f2315b3",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/43 View Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#ppUEzyZkogfKnnN3WzSzdvEr0ZJnVHgnOl9tAssbLGw$* </div>",
+        "order_nickname": "NFM Carpentry - HP43",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10944,
+        "stats": {
+          "paid": false
+        },
+        "notes": "",
+        "created_at": "2020-07-31T04:43:37.134Z",
+        "updated_at": "2020-08-06T05:36:48.831Z",
+        "due_date": "2020-08-07T05:45:00.000Z",
+        "order_total": 261.25,
+        "order_subtotal": 237.5,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16362727,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          },
+          {
+            "id": 16362728,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - In Production - Print",
+          "color": "#079400"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18608593,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 15,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 15,
+            "goods_status": "",
+            "unit_cost": 11,
+            "category": null
+          },
+          {
+            "id": 18608594,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 15,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 15,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1886510,
+            "amount": 20,
+            "description": "Setup (Simple)"
+          }
+        ],
+        "id": "4904742",
+        "customer_due_date": "2020-08-07T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-31T00:00:00.000+10:00",
+        "invoice_date": "2020-08-07T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-14T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/07/2020",
+        "formatted_customer_due_date": "08/07/2020",
+        "formatted_payment_due_date": "08/14/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea3a168a8%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 261.25,
+        "public_url": "https://www.printavo.com/invoice/056e6c32c91c3e6d12e4d2a53f2315b3",
+        "pdf": "https://www.printavo.com/invoice/056e6c32c91c3e6d12e4d2a53f2315b3.pdf",
+        "workorder": "https://www.printavo.com/invoices/4904742/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4904742/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 34331,
+        "orderstatus_id": 152846,
+        "public_hash": "6292b5fe31fab888f13d7ea7476c53a5",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/55 View Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#AFd3Wz6xz0RdQCeAouZaeSdQVqWoOX-gzbnYzATD9pU$*</div>",
+        "order_nickname": "Wonderful Websites - HP55",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 11004,
+        "stats": {
+          "paid": false
+        },
+        "notes": "",
+        "created_at": "2020-08-04T02:18:04.049Z",
+        "updated_at": "2020-08-06T05:34:36.159Z",
+        "due_date": "2020-08-07T05:15:00.000Z",
+        "order_total": 45.1,
+        "order_subtotal": 41,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16378474,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          },
+          {
+            "id": 16378475,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Ready to Print",
+          "color": "#54D100"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18668111,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 6,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 6,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1889602,
+            "amount": 20,
+            "description": "Setup (Simple)"
+          }
+        ],
+        "id": "4919220",
+        "customer_due_date": "2020-08-11T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-04T00:00:00.000+10:00",
+        "invoice_date": "2020-08-11T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-18T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/11/2020",
+        "formatted_customer_due_date": "08/11/2020",
+        "formatted_payment_due_date": "08/18/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea3a07bf0%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 45.1,
+        "public_url": "https://www.printavo.com/invoice/6292b5fe31fab888f13d7ea7476c53a5",
+        "pdf": "https://www.printavo.com/invoice/6292b5fe31fab888f13d7ea7476c53a5.pdf",
+        "workorder": "https://www.printavo.com/invoices/4919220/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4919220/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 20167,
+        "orderstatus_id": 152846,
+        "public_hash": "f1cc5ec7aa873fb378f93237d1e96d9f",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/40 View Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#wu7ykyKG4skdEEWZRXLbd6F51NaXHsOUDxvxT_NAvv4$*</div>",
+        "order_nickname": "Modglass - HP40",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 11035,
+        "stats": {
+          "paid": false
+        },
+        "notes": "",
+        "created_at": "2020-08-06T00:14:07.304Z",
+        "updated_at": "2020-08-06T05:15:45.613Z",
+        "due_date": "2020-08-07T03:30:00.000Z",
+        "order_total": 253.8,
+        "order_subtotal": 230.73,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16391961,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          },
+          {
+            "id": 16391962,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Ready to Print",
+          "color": "#54D100"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18726899,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 24,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 24,
+            "goods_status": "",
+            "unit_cost": 5.7,
+            "category": null
+          },
+          {
+            "id": 18726900,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 24,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 24,
+            "goods_status": "",
+            "unit_cost": 3.32,
+            "category": null
+          },
+          {
+            "id": 18726901,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 3,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 3,
+            "goods_status": "",
+            "unit_cost": 4.75,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4933703",
+        "customer_due_date": "2020-08-10T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-06T00:00:00.000+10:00",
+        "invoice_date": "2020-08-06T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-13T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/06/2020",
+        "formatted_customer_due_date": "08/10/2020",
+        "formatted_payment_due_date": "08/13/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39ff888%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 253.803,
+        "public_url": "https://www.printavo.com/invoice/f1cc5ec7aa873fb378f93237d1e96d9f",
+        "pdf": "https://www.printavo.com/invoice/f1cc5ec7aa873fb378f93237d1e96d9f.pdf",
+        "workorder": "https://www.printavo.com/invoices/4933703/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4933703/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 34331,
+        "orderstatus_id": 152846,
+        "public_hash": "23d43d1266b4ec2139687e93e5029c56",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/47 View Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#Cz3EgxqTAWkk_lPVFAvcc3cx8ZjB7dLW1YNwNIa7FdA$* </div>",
+        "order_nickname": "Ocean Currents Caps - HP47",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10959,
+        "stats": {
+          "paid": false
+        },
+        "notes": "",
+        "created_at": "2020-08-03T01:05:15.039Z",
+        "updated_at": "2020-08-06T05:15:30.737Z",
+        "due_date": "2020-08-07T03:00:00.000Z",
+        "order_total": 45.1,
+        "order_subtotal": 41,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16362921,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          },
+          {
+            "id": 16362922,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Ready to Print",
+          "color": "#54D100"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18634923,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 6,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 6,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1886582,
+            "amount": 20,
+            "description": "Setup (Simple)"
+          }
+        ],
+        "id": "4911371",
+        "customer_due_date": "2020-08-10T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-03T00:00:00.000+10:00",
+        "invoice_date": "2020-08-10T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-17T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/10/2020",
+        "formatted_customer_due_date": "08/10/2020",
+        "formatted_payment_due_date": "08/17/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39f5810%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 45.1,
+        "public_url": "https://www.printavo.com/invoice/23d43d1266b4ec2139687e93e5029c56",
+        "pdf": "https://www.printavo.com/invoice/23d43d1266b4ec2139687e93e5029c56.pdf",
+        "workorder": "https://www.printavo.com/invoices/4911371/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4911371/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 34331,
+        "orderstatus_id": 152846,
+        "public_hash": "1127ffec1f0e1d8bf37058a968275c92",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/45 View Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#vkSJiF66poEO1VNcdbMDRnlPFRDIDULHB0yGy58WKRI$*</div>",
+        "order_nickname": "Stainless Steel Concepts - HP45",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10947,
+        "stats": {
+          "paid": false
+        },
+        "notes": "",
+        "created_at": "2020-08-01T02:12:41.297Z",
+        "updated_at": "2020-08-06T05:14:28.873Z",
+        "due_date": "2020-08-06T23:30:00.000Z",
+        "order_total": 71.23,
+        "order_subtotal": 64.75,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16362763,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          },
+          {
+            "id": 16362764,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Ready to Print",
+          "color": "#54D100"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18631150,
+            "style_description": "Stainless Steel 100mm x 20mm",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 3,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 3,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          },
+          {
+            "id": 18631151,
+            "style_description": "Stainless Steel 250mm x 48mm",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 3,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 3,
+            "goods_status": "",
+            "unit_cost": 4.75,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1886525,
+            "amount": 40,
+            "description": "Setup (Standard)"
+          }
+        ],
+        "id": "4910482",
+        "customer_due_date": "2020-08-07T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-01T00:00:00.000+10:00",
+        "invoice_date": "2020-08-08T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-15T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/08/2020",
+        "formatted_customer_due_date": "08/07/2020",
+        "formatted_payment_due_date": "08/15/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39ed1b0%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 71.225,
+        "public_url": "https://www.printavo.com/invoice/1127ffec1f0e1d8bf37058a968275c92",
+        "pdf": "https://www.printavo.com/invoice/1127ffec1f0e1d8bf37058a968275c92.pdf",
+        "workorder": "https://www.printavo.com/invoices/4910482/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4910482/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 152847,
+        "public_hash": "a264a73b4590b047e1d2e540bb962b44",
+        "production_notes": "<div>Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/49\">https://www.cognitoforms.com/CapitalPrints1/61/entries/49</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#wChszpshOku4ADBLnRNxCH3fXe7JkDs4zPuSTfejwUI\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#wChszpshOku4ADBLnRNxCH3fXe7JkDs4zPuSTfejwUI</a>$*</div>",
+        "order_nickname": "Alliance Refrigeration - HP49 ",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10985,
+        "stats": {
+          "paid": false,
+          "paid_date": "2020-04-07"
+        },
+        "notes": "",
+        "created_at": "2020-08-03T05:41:25.323Z",
+        "updated_at": "2020-08-05T06:10:24.125Z",
+        "due_date": "2020-08-06T04:15:00.000Z",
+        "order_total": 169.4,
+        "order_subtotal": 154,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "1089724",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16348279,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16348280,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - In Production - Print",
+          "color": "#079400"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18635512,
+            "style_description": "small",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 50,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 50,
+            "goods_status": "",
+            "unit_cost": 3.08,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4911589",
+        "customer_due_date": "2020-08-07T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-03T00:00:00.000+10:00",
+        "invoice_date": "2020-08-03T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-10T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/03/2020",
+        "formatted_customer_due_date": "08/07/2020",
+        "formatted_payment_due_date": "08/10/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39df9c0%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 169.4,
+        "public_url": "https://www.printavo.com/invoice/a264a73b4590b047e1d2e540bb962b44",
+        "pdf": "https://www.printavo.com/invoice/a264a73b4590b047e1d2e540bb962b44.pdf",
+        "workorder": "https://www.printavo.com/invoices/4911589/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4911589/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 152847,
+        "public_hash": "7b2f24254c9c9ba516ac24346235f117",
+        "production_notes": "<div>Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/56\">https://www.cognitoforms.com/CapitalPrints1/61/entries/56</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#weCw4M8x-KuYfO9mJIohkUfzy3_mgpQIiFRq1e4Cu9Q\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#weCw4M8x-KuYfO9mJIohkUfzy3_mgpQIiFRq1e4Cu9Q</a>$*</div>",
+        "order_nickname": "Geelong Grammer Netball - HP56",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 11020,
+        "stats": {
+          "paid": false,
+          "paid_date": "2020-04-29"
+        },
+        "notes": "",
+        "created_at": "2020-08-04T23:39:06.112Z",
+        "updated_at": "2020-08-05T22:34:58.193Z",
+        "due_date": "2020-08-06T04:00:00.000Z",
+        "order_total": 5.23,
+        "order_subtotal": 4.75,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16377717,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16377718,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - In Production - Print",
+          "color": "#079400"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18697806,
+            "style_description": "\t\r\nNetball Logo",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 1,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 1,
+            "goods_status": "",
+            "unit_cost": 4.75,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4926532",
+        "customer_due_date": "2020-08-07T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-05T00:00:00.000+10:00",
+        "invoice_date": "2020-08-05T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-12T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/05/2020",
+        "formatted_customer_due_date": "08/07/2020",
+        "formatted_payment_due_date": "08/12/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39d74a0%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 5.225,
+        "public_url": "https://www.printavo.com/invoice/7b2f24254c9c9ba516ac24346235f117",
+        "pdf": "https://www.printavo.com/invoice/7b2f24254c9c9ba516ac24346235f117.pdf",
+        "workorder": "https://www.printavo.com/invoices/4926532/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4926532/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197322,
+        "user_id": 20167,
+        "orderstatus_id": 152847,
+        "public_hash": "3365b8723abd5fd3f2b74335bf88a7a5",
+        "production_notes": "<div>Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/46\">https://www.cognitoforms.com/CapitalPrints1/61/entries/46</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#GGJGqtgKoDewKnFv_5MmaBMx7QJkpPKMw-yqUjsXkoU\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#GGJGqtgKoDewKnFv_5MmaBMx7QJkpPKMw-yqUjsXkoU</a>$*<br><br></div>",
+        "order_nickname": "Geelong Gaels - HP46 ",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10970,
+        "stats": {
+          "paid": false,
+          "paid_date": "2019-11-10"
+        },
+        "notes": "",
+        "created_at": "2020-08-03T03:14:22.878Z",
+        "updated_at": "2020-08-05T06:10:33.993Z",
+        "due_date": "2020-08-06T03:30:00.000Z",
+        "order_total": 116.86,
+        "order_subtotal": 106.24,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Kylie",
+          "first_name": "Kylie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16348127,
+            "address1": "180 Latrobe Terrace",
+            "address2": "",
+            "city": "Geelong West",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3218"
+          },
+          {
+            "id": 16348128,
+            "address1": "180 Latrobe Terrace",
+            "address2": "",
+            "city": "Geelong West",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3218"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - In Production - Print",
+          "color": "#079400"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18635265,
+            "style_description": "Geelong Gaels - \t\r\n60mm",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 20,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 20,
+            "goods_status": "",
+            "unit_cost": 3.32,
+            "category": null
+          },
+          {
+            "id": 18635269,
+            "style_description": "Geelong Gaels - \t\r\n75mm",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 12,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 12,
+            "goods_status": "",
+            "unit_cost": 3.32,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4911501",
+        "customer_due_date": "2020-08-06T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-03T00:00:00.000+10:00",
+        "invoice_date": "2020-08-03T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-10T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/03/2020",
+        "formatted_customer_due_date": "08/06/2020",
+        "formatted_payment_due_date": "08/10/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39cf278%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 116.864,
+        "public_url": "https://www.printavo.com/invoice/3365b8723abd5fd3f2b74335bf88a7a5",
+        "pdf": "https://www.printavo.com/invoice/3365b8723abd5fd3f2b74335bf88a7a5.pdf",
+        "workorder": "https://www.printavo.com/invoices/4911501/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4911501/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197322,
+        "user_id": 20167,
+        "orderstatus_id": 152847,
+        "public_hash": "ccded47b94f5e34b5af93d870ed5183b",
+        "production_notes": "<div> Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/57\">https://www.cognitoforms.com/CapitalPrints1/61/entries/57</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#hkEku6dGftieHE97WzxmJK1lQxBAL_yAbpkNa_QLy2o\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#hkEku6dGftieHE97WzxmJK1lQxBAL_yAbpkNa_QLy2o</a>$* <br><br><strong>Can do white print in digital and just fit them on a page, they are tiny</strong></div>",
+        "order_nickname": " CAmera & Photo - HP57",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 11027,
+        "stats": {
+          "paid": false,
+          "paid_date": "2020-05-26"
+        },
+        "notes": "",
+        "created_at": "2020-08-05T04:33:52.988Z",
+        "updated_at": "2020-08-05T22:32:12.606Z",
+        "due_date": "2020-08-06T03:15:00.000Z",
+        "order_total": 14.3,
+        "order_subtotal": 13,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Kylie",
+          "first_name": "Kylie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16378522,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16378523,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - In Production - Print",
+          "color": "#079400"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18699433,
+            "style_description": "70mm x 10mm white",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 4,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 4,
+            "goods_status": "",
+            "unit_cost": 3.25,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4926956",
+        "customer_due_date": "2020-08-06T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-05T00:00:00.000+10:00",
+        "invoice_date": "2020-08-05T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-12T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/05/2020",
+        "formatted_customer_due_date": "08/06/2020",
+        "formatted_payment_due_date": "08/12/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39c6100%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 14.3,
+        "public_url": "https://www.printavo.com/invoice/ccded47b94f5e34b5af93d870ed5183b",
+        "pdf": "https://www.printavo.com/invoice/ccded47b94f5e34b5af93d870ed5183b.pdf",
+        "workorder": "https://www.printavo.com/invoices/4926956/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4926956/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 34331,
+        "orderstatus_id": 141343,
+        "public_hash": "d19fd60cb3373f406a90af64e9852237",
+        "production_notes": "Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/62\nView Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#4cY2iYCIGY1LlFFFvum70dj4mZThZFuiULV3P4k0sh4$*\nDate Required: 2020-08-13\nRepeat: Yes\nPrevious Order ID:  10862\n\nPurchase Order/Internal Reference No.: \n\nStock:\nDropped Off\nETA: \n\nReference/PO Number: \n\nOther information:\n\n\nOrder placed by: Kylie\n\nQuote Required: No\nDigital Mock Up: No\nOrder Release: Shipping (CP-arranged)",
+        "order_nickname": "BB Dog grooming - HP62",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 11049,
+        "stats": {
+          "paid": false
+        },
+        "notes": null,
+        "created_at": "2020-08-06T05:46:18.933Z",
+        "updated_at": "2020-08-06T05:46:18.933Z",
+        "due_date": "2020-08-06T00:00:00.000Z",
+        "order_total": 0,
+        "order_subtotal": 0,
+        "payment_term_id": null,
+        "delivery_method_id": null,
+        "visual_po_number": null,
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "NEW TRADE ORDER",
+          "color": "#FF7300"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18728233,
+            "style_description": "250mm",
+            "taxable": true,
+            "style_number": null,
+            "color": null,
+            "size_other": 1,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 1,
+            "goods_status": "",
+            "unit_cost": 0,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4934092",
+        "customer_due_date": "2020-08-13T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-06T00:00:00.000+10:00",
+        "invoice_date": "2020-08-13T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-13T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/13/2020",
+        "formatted_customer_due_date": "08/13/2020",
+        "formatted_payment_due_date": "08/13/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39bdfc8%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 0,
+        "public_url": "https://www.printavo.com/invoice/d19fd60cb3373f406a90af64e9852237",
+        "pdf": "https://www.printavo.com/invoice/d19fd60cb3373f406a90af64e9852237.pdf",
+        "workorder": "https://www.printavo.com/invoices/4934092/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4934092/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 34331,
+        "orderstatus_id": 141343,
+        "public_hash": "8ff926403b856c273e3c01462c5ab623",
+        "production_notes": "Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/60\nView Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#axazVYENsfmuGk9muHYhZFxmVOFkJiJEyZzT-Y19kiQ$*\nDate Required: 2020-08-13\nRepeat: No\nPrevious Order ID:  \n\nPurchase Order/Internal Reference No.: \n\nStock:\nDropped Off\nETA: \n\nReference/PO Number: \n\nOther information:\n\n\nOrder placed by: Jodie\n\nQuote Required: No\nDigital Mock Up: No\nOrder Release: Shipping (CP-arranged)",
+        "order_nickname": "Geelong College Names - HP60",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 11038,
+        "stats": {
+          "paid": false
+        },
+        "notes": null,
+        "created_at": "2020-08-06T03:31:07.694Z",
+        "updated_at": "2020-08-06T03:31:07.694Z",
+        "due_date": "2020-08-06T00:00:00.000Z",
+        "order_total": 0,
+        "order_subtotal": 0,
+        "payment_term_id": null,
+        "delivery_method_id": null,
+        "visual_po_number": null,
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "NEW TRADE ORDER",
+          "color": "#FF7300"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18727908,
+            "style_description": null,
+            "taxable": true,
+            "style_number": null,
+            "color": null,
+            "size_other": 157,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 157,
+            "goods_status": "",
+            "unit_cost": 0,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4933982",
+        "customer_due_date": "2020-08-13T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-06T00:00:00.000+10:00",
+        "invoice_date": "2020-08-13T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-13T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/13/2020",
+        "formatted_customer_due_date": "08/13/2020",
+        "formatted_payment_due_date": "08/13/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39b6408%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 0,
+        "public_url": "https://www.printavo.com/invoice/8ff926403b856c273e3c01462c5ab623",
+        "pdf": "https://www.printavo.com/invoice/8ff926403b856c273e3c01462c5ab623.pdf",
+        "workorder": "https://www.printavo.com/invoices/4933982/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4933982/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 70435,
+        "public_hash": "8fcc9e95cce5c82b73639563011c08ff",
+        "production_notes": "<div>Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/48\">https://www.cognitoforms.com/CapitalPrints1/61/entries/48</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#n3rsppySxiPIcbhRLs-dSz3YvgHp9SPdmavowa2Y628\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#n3rsppySxiPIcbhRLs-dSz3YvgHp9SPdmavowa2Y628</a>$*</div>",
+        "order_nickname": "Mick Day Plumbing - HP48 ",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10980,
+        "stats": {
+          "paid": false
+        },
+        "notes": "",
+        "created_at": "2020-08-03T05:30:47.164Z",
+        "updated_at": "2020-08-04T05:59:53.546Z",
+        "due_date": "2020-08-05T11:30:00.000Z",
+        "order_total": 77,
+        "order_subtotal": 70,
+        "payment_term_id": null,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16348261,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16348262,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "Quote",
+          "color": "#E05AD5"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18635492,
+            "style_description": "\t\r\nBack Only 200 x 200",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 10,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 10,
+            "goods_status": "",
+            "unit_cost": 7,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [],
+        "id": "4911580",
+        "customer_due_date": "2020-08-07T00:00:00.000+10:00",
+        "custom_created_at": "2020-08-03T00:00:00.000+10:00",
+        "invoice_date": "2020-08-03T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-03T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/03/2020",
+        "formatted_customer_due_date": "08/07/2020",
+        "formatted_payment_due_date": "08/03/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39aedc0%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 77,
+        "public_url": "https://www.printavo.com/invoice/8fcc9e95cce5c82b73639563011c08ff",
+        "pdf": "https://www.printavo.com/invoice/8fcc9e95cce5c82b73639563011c08ff.pdf",
+        "workorder": "https://www.printavo.com/invoices/4911580/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4911580/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 34331,
+        "orderstatus_id": 152857,
+        "public_hash": "e092f7b4be5948c80d693685f1ca554f",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/40 View Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#wu7ykyKG4skdEEWZRXLbd6F51NaXHsOUDxvxT_NAvv4$*</div>",
+        "order_nickname": "Modglass - HP40",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10876,
+        "stats": {
+          "paid": false
+        },
+        "notes": "<div>AUSPOST Tracking No. 60541871520096</div>",
+        "created_at": "2020-07-29T06:17:21.149Z",
+        "updated_at": "2020-08-03T06:24:30.111Z",
+        "due_date": "2020-08-02T22:45:00.000Z",
+        "order_total": 316.01,
+        "order_subtotal": 287.28,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16320792,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          },
+          {
+            "id": 16320793,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18551474,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 24,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 24,
+            "goods_status": "",
+            "unit_cost": 6.65,
+            "category": null
+          },
+          {
+            "id": 18551475,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 24,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 24,
+            "goods_status": "",
+            "unit_cost": 3.32,
+            "category": null
+          },
+          {
+            "id": 18551476,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 3,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 3,
+            "goods_status": "",
+            "unit_cost": 6,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1878031,
+            "amount": 20,
+            "description": "Setup (Smple)"
+          },
+          {
+            "id": 1883583,
+            "amount": 10,
+            "description": "Freight (Large)"
+          }
+        ],
+        "id": "4890651",
+        "customer_due_date": "2020-08-05T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-29T00:00:00.000+10:00",
+        "invoice_date": "2020-08-05T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-12T00:00:00.000+10:00",
+        "formatted_invoice_date": "08/05/2020",
+        "formatted_customer_due_date": "08/05/2020",
+        "formatted_payment_due_date": "08/12/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39a6698%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 316.008,
+        "public_url": "https://www.printavo.com/invoice/e092f7b4be5948c80d693685f1ca554f",
+        "pdf": "https://www.printavo.com/invoice/e092f7b4be5948c80d693685f1ca554f.pdf",
+        "workorder": "https://www.printavo.com/invoices/4890651/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4890651/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3344630,
+        "user_id": 20167,
+        "orderstatus_id": 152855,
+        "public_hash": "a18ce2a5fe93a81bf7f41d9092474ce9",
+        "production_notes": "<div> Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/32\">https://www.cognitoforms.com/CapitalPrints1/61/entries/32</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#WzcEWEajDkEPpcVSbrUybVHxxYo4cdFfYLsz3jBCMbM\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#WzcEWEajDkEPpcVSbrUybVHxxYo4cdFfYLsz3jBCMbM</a>$* <br><br></div>",
+        "order_nickname": "Nitro Plastering - HP32",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10840,
+        "stats": {
+          "paid": false,
+          "paid_date": "2020-02-11"
+        },
+        "notes": "<div>AusPost Tracking no. 60543821683097</div>",
+        "created_at": "2020-07-27T05:19:14.262Z",
+        "updated_at": "2020-07-30T07:19:33.722Z",
+        "due_date": "2020-07-29T20:00:00.000Z",
+        "order_total": 145.2,
+        "order_subtotal": 132,
+        "payment_term_id": null,
+        "delivery_method_id": null,
+        "visual_po_number": "Nitro Plastering   ",
+        "customer": {
+          "full_name": "Liz",
+          "first_name": "Liz",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16277179,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16277180,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "DIRECT - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18489977,
+            "style_description": "Left Chest",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 11,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 11,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          },
+          {
+            "id": 18489978,
+            "style_description": "Rear",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 11,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 11,
+            "goods_status": "",
+            "unit_cost": 8.5,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1878177,
+            "amount": 0,
+            "description": "Shipped with BB Dog Grooming & Daycare - HP33"
+          }
+        ],
+        "id": "4875502",
+        "customer_due_date": "2020-08-03T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-27T00:00:00.000+10:00",
+        "invoice_date": "2020-07-27T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-27T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/27/2020",
+        "formatted_customer_due_date": "08/03/2020",
+        "formatted_payment_due_date": "07/27/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea399c8c8%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 145.2,
+        "public_url": "https://www.printavo.com/invoice/a18ce2a5fe93a81bf7f41d9092474ce9",
+        "pdf": "https://www.printavo.com/invoice/a18ce2a5fe93a81bf7f41d9092474ce9.pdf",
+        "workorder": "https://www.printavo.com/invoices/4875502/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4875502/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 152857,
+        "public_hash": "d76bee89667f6beadbda8780becf1193",
+        "production_notes": "<div>Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/33\">https://www.cognitoforms.com/CapitalPrints1/61/entries/33</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#qN4E38G7Z3voWsGWfBLm5QU5rqsS6q-WI_LJdIV0sVo\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#qN4E38G7Z3voWsGWfBLm5QU5rqsS6q-WI_LJdIV0sVo</a>$*</div>",
+        "order_nickname": "BB Dog Grooming & Daycare - HP33",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10862,
+        "stats": {
+          "paid": false,
+          "paid_date": "2020-05-26"
+        },
+        "notes": "<div>AusPost Tracking no. 60543821683097</div>",
+        "created_at": "2020-07-28T21:22:07.284Z",
+        "updated_at": "2020-07-30T07:19:28.994Z",
+        "due_date": "2020-07-29T19:45:00.000Z",
+        "order_total": 49.5,
+        "order_subtotal": 45,
+        "payment_term_id": null,
+        "delivery_method_id": null,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16304434,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16304435,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18546126,
+            "style_description": "\t\r\nBack",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 5,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 5,
+            "goods_status": "",
+            "unit_cost": 7,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1878178,
+            "amount": 10,
+            "description": "Freight (Large)"
+          }
+        ],
+        "id": "4889362",
+        "customer_due_date": "2020-08-04T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-29T00:00:00.000+10:00",
+        "invoice_date": "2020-07-29T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-29T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/29/2020",
+        "formatted_customer_due_date": "08/04/2020",
+        "formatted_payment_due_date": "07/29/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea398f880%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 49.5,
+        "public_url": "https://www.printavo.com/invoice/d76bee89667f6beadbda8780becf1193",
+        "pdf": "https://www.printavo.com/invoice/d76bee89667f6beadbda8780becf1193.pdf",
+        "workorder": "https://www.printavo.com/invoices/4889362/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4889362/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 152857,
+        "public_hash": "740c547849314ff5381f35e3a220bbf7",
+        "production_notes": "<div> Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/31\">https://www.cognitoforms.com/CapitalPrints1/61/entries/31</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#n2fpcJEiRIxsCfZAFBOYFcQ5de40DpBg4TLNdcjdHHk\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#n2fpcJEiRIxsCfZAFBOYFcQ5de40DpBg4TLNdcjdHHk</a>$* </div>",
+        "order_nickname": "Pearl Concrete & Civil - HP31",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10839,
+        "stats": {
+          "paid": false,
+          "paid_date": "2019-12-09"
+        },
+        "notes": "<div> Auspost Tracking No. 605 463 0514 3094 </div>",
+        "created_at": "2020-07-27T05:08:39.985Z",
+        "updated_at": "2020-07-29T04:25:56.475Z",
+        "due_date": "2020-07-28T20:45:00.000Z",
+        "order_total": 31.35,
+        "order_subtotal": 28.5,
+        "payment_term_id": null,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16277167,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16277168,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18489961,
+            "style_description": "Red/White",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 2,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 2,
+            "goods_status": "",
+            "unit_cost": 6,
+            "category": null
+          },
+          {
+            "id": 18489962,
+            "style_description": "Red/white",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 2,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 2,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          },
+          {
+            "id": 18489963,
+            "style_description": "Black",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 1,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 1,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          },
+          {
+            "id": 18489964,
+            "style_description": "Black",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 1,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 1,
+            "goods_status": "",
+            "unit_cost": 6,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1875145,
+            "amount": 0,
+            "description": "Shipped with Leopold Maccas Logo - HP29 "
+          }
+        ],
+        "id": "4875497",
+        "customer_due_date": "2020-08-03T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-27T00:00:00.000+10:00",
+        "invoice_date": "2020-07-27T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-27T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/27/2020",
+        "formatted_customer_due_date": "08/03/2020",
+        "formatted_payment_due_date": "07/27/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea3987518%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 31.35,
+        "public_url": "https://www.printavo.com/invoice/740c547849314ff5381f35e3a220bbf7",
+        "pdf": "https://www.printavo.com/invoice/740c547849314ff5381f35e3a220bbf7.pdf",
+        "workorder": "https://www.printavo.com/invoices/4875497/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4875497/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3344630,
+        "user_id": 34331,
+        "orderstatus_id": 152857,
+        "public_hash": "353f447bfa92066a851a6a32c6131b57",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/23 View Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#p2DvQp9_MppknhMR5R8LY-tzYondDWlsM8cCyAMmgUU$* </div>",
+        "order_nickname": "Mick Day Plumbing - HP23",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10757,
+        "stats": {
+          "paid": false
+        },
+        "notes": "<div>Auspost Tracking No. 605 463 0514 3094</div>",
+        "created_at": "2020-07-22T04:18:25.362Z",
+        "updated_at": "2020-07-29T04:25:51.590Z",
+        "due_date": "2020-07-28T20:30:00.000Z",
+        "order_total": 121,
+        "order_subtotal": 110,
+        "payment_term_id": null,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Liz",
+          "first_name": "Liz",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16250726,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16250727,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18409975,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 3,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 3,
+            "goods_status": "",
+            "unit_cost": 7,
+            "category": null
+          },
+          {
+            "id": 18409976,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 14,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 14,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1863892,
+            "amount": 40,
+            "description": "Setup (standard)"
+          },
+          {
+            "id": 1875146,
+            "amount": 0,
+            "description": "Shipped with Leopold Maccas Logo - HP29 "
+          }
+        ],
+        "id": "4854892",
+        "customer_due_date": "2020-07-29T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-22T00:00:00.000+10:00",
+        "invoice_date": "2020-07-29T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-29T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/29/2020",
+        "formatted_customer_due_date": "07/29/2020",
+        "formatted_payment_due_date": "07/29/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea397cb18%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 121,
+        "public_url": "https://www.printavo.com/invoice/353f447bfa92066a851a6a32c6131b57",
+        "pdf": "https://www.printavo.com/invoice/353f447bfa92066a851a6a32c6131b57.pdf",
+        "workorder": "https://www.printavo.com/invoices/4854892/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4854892/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 20167,
+        "orderstatus_id": 152857,
+        "public_hash": "f4a6d32e0e6b1246a38a483013e44ca6",
+        "production_notes": "<div>Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/28\">https://www.cognitoforms.com/CapitalPrints1/61/entries/28</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#i89_yJTX5SFJQCMO4vdCz9wkOQBBMweE6MjuAufK34Y\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#i89_yJTX5SFJQCMO4vdCz9wkOQBBMweE6MjuAufK34Y</a>$*</div>",
+        "order_nickname": "Straightline Metal Roofing - HP28",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10820,
+        "stats": {
+          "paid": false
+        },
+        "notes": "<div>Auspost Tracking No. 605 463 0514 3094</div>",
+        "created_at": "2020-07-26T22:16:38.234Z",
+        "updated_at": "2020-07-29T04:25:47.207Z",
+        "due_date": "2020-07-28T20:15:00.000Z",
+        "order_total": 5.23,
+        "order_subtotal": 4.75,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16276653,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16276654,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18489147,
+            "style_description": "\t\r\nBack transfer",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 1,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 1,
+            "goods_status": "",
+            "unit_cost": 4.75,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1875147,
+            "amount": 0,
+            "description": "Shipped with Leopold Maccas Logo - HP29 "
+          }
+        ],
+        "id": "4875235",
+        "customer_due_date": "2020-08-03T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-27T00:00:00.000+10:00",
+        "invoice_date": "2020-07-27T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-03T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/27/2020",
+        "formatted_customer_due_date": "08/03/2020",
+        "formatted_payment_due_date": "08/03/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea396ebf8%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 5.225,
+        "public_url": "https://www.printavo.com/invoice/f4a6d32e0e6b1246a38a483013e44ca6",
+        "pdf": "https://www.printavo.com/invoice/f4a6d32e0e6b1246a38a483013e44ca6.pdf",
+        "workorder": "https://www.printavo.com/invoices/4875235/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4875235/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 152857,
+        "public_hash": "24afdcd158632a47348f3ffe6dfd1c35",
+        "production_notes": "<div> Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/30\">https://www.cognitoforms.com/CapitalPrints1/61/entries/30</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#ANsLV9wZVet9ZJqvwW7DwuzxqqMw5MszIf6adplfw-U\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#ANsLV9wZVet9ZJqvwW7DwuzxqqMw5MszIf6adplfw-U</a>$* </div>",
+        "order_nickname": "Straightline Metal Roofing - HP30",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10838,
+        "stats": {
+          "paid": false
+        },
+        "notes": "<div>Auspost Tracking No. 605 463 0514 3094</div>",
+        "created_at": "2020-07-27T04:44:01.671Z",
+        "updated_at": "2020-07-29T04:25:43.862Z",
+        "due_date": "2020-07-28T20:00:00.000Z",
+        "order_total": 5.23,
+        "order_subtotal": 4.75,
+        "payment_term_id": null,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16277109,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16277110,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18489893,
+            "style_description": "\t\r\nBack",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 1,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 1,
+            "goods_status": "",
+            "unit_cost": 4.75,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1875148,
+            "amount": 0,
+            "description": "Shipped with Leopold Maccas Logo - HP29 "
+          }
+        ],
+        "id": "4875470",
+        "customer_due_date": "2020-08-03T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-27T00:00:00.000+10:00",
+        "invoice_date": "2020-07-27T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-27T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/27/2020",
+        "formatted_customer_due_date": "08/03/2020",
+        "formatted_payment_due_date": "07/27/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea3966200%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 5.225,
+        "public_url": "https://www.printavo.com/invoice/24afdcd158632a47348f3ffe6dfd1c35",
+        "pdf": "https://www.printavo.com/invoice/24afdcd158632a47348f3ffe6dfd1c35.pdf",
+        "workorder": "https://www.printavo.com/invoices/4875470/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4875470/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 152857,
+        "public_hash": "1c17f78e917dd0f82c8594c60424eec1",
+        "production_notes": "<div> Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/29\">https://www.cognitoforms.com/CapitalPrints1/61/entries/29</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#w3HMb3m6-5LN3z4tdfKTC2JyETDg6xzpI9Dj3Jb1tdA\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#w3HMb3m6-5LN3z4tdfKTC2JyETDg6xzpI9Dj3Jb1tdA</a>$* </div>",
+        "order_nickname": "Leopold Maccas Logo - HP29 ",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10835,
+        "stats": {
+          "paid": false,
+          "paid_date": "2020-07-21"
+        },
+        "notes": "<div>Auspost Tracking No. 605 463 0514 3094</div>",
+        "created_at": "2020-07-27T03:13:01.934Z",
+        "updated_at": "2020-07-29T04:25:37.254Z",
+        "due_date": "2020-07-28T19:45:00.000Z",
+        "order_total": 84.04,
+        "order_subtotal": 76.4,
+        "payment_term_id": 73,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16276935,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16276936,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18489706,
+            "style_description": "\t\r\nLogo",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 20,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 20,
+            "goods_status": "",
+            "unit_cost": 3.32,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1875149,
+            "amount": 10,
+            "description": "Freight (Large)"
+          }
+        ],
+        "id": "4875389",
+        "customer_due_date": "2020-08-03T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-27T00:00:00.000+10:00",
+        "invoice_date": "2020-07-27T00:00:00.000+10:00",
+        "payment_due_date": "2020-08-03T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/27/2020",
+        "formatted_customer_due_date": "08/03/2020",
+        "formatted_payment_due_date": "08/03/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea395db28%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 84.04,
+        "public_url": "https://www.printavo.com/invoice/1c17f78e917dd0f82c8594c60424eec1",
+        "pdf": "https://www.printavo.com/invoice/1c17f78e917dd0f82c8594c60424eec1.pdf",
+        "workorder": "https://www.printavo.com/invoices/4875389/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4875389/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197320,
+        "user_id": 20167,
+        "orderstatus_id": 152857,
+        "public_hash": "978cfa3175a657406ae58aafb70f4578",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/50/entries/186 View Link: https://www.cognitoforms.com/CapitalPrints1/HPGNewDecorationOrder#a3Db4BkZ4fLrm3ibO_DBpDPOyjtYhFl-CORFE6tEfLM$*</div>",
+        "order_nickname": "TA Tiling - CP186",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10657,
+        "stats": {
+          "paid": false
+        },
+        "notes": "<div>Auspost - 02 07041 96417 30060 70995</div>",
+        "created_at": "2020-07-16T04:24:31.708Z",
+        "updated_at": "2020-07-23T20:16:50.305Z",
+        "due_date": "2020-07-22T20:45:00.000Z",
+        "order_total": 130.9,
+        "order_subtotal": 119,
+        "payment_term_id": null,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Alistair",
+          "first_name": "Alistair",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16192404,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          },
+          {
+            "id": 16192405,
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "",
+            "country": "AU",
+            "zip": ""
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18295702,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 7,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 7,
+            "goods_status": "",
+            "unit_cost": 8.5,
+            "category": null
+          },
+          {
+            "id": 18295703,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 7,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 7,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1852423,
+            "amount": 20,
+            "description": "Setup (simple)"
+          },
+          {
+            "id": 1863936,
+            "amount": 15,
+            "description": "Freight (large)"
+          }
+        ],
+        "id": "4825764",
+        "customer_due_date": "2020-07-23T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-16T00:00:00.000+10:00",
+        "invoice_date": "2020-07-21T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-21T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/21/2020",
+        "formatted_customer_due_date": "07/23/2020",
+        "formatted_payment_due_date": "07/21/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea3955888%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 130.9,
+        "public_url": "https://www.printavo.com/invoice/978cfa3175a657406ae58aafb70f4578",
+        "pdf": "https://www.printavo.com/invoice/978cfa3175a657406ae58aafb70f4578.pdf",
+        "workorder": "https://www.printavo.com/invoices/4825764/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4825764/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197322,
+        "user_id": 20167,
+        "orderstatus_id": 152857,
+        "public_hash": "2d4e084721077f043031e67d1904b8eb",
+        "production_notes": "<div>Admin Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/61/entries/17\">https://www.cognitoforms.com/CapitalPrints1/61/entries/17</a><br>View Link: <a href=\"https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#NIzmU1znix3UUOu7oh4ZEdEGEYLG6Ugqhij92IchaVY\">https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#NIzmU1znix3UUOu7oh4ZEdEGEYLG6Ugqhij92IchaVY</a>$*<br><br></div>",
+        "order_nickname": "Hickey Removals - HP17",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10744,
+        "stats": {
+          "paid": false,
+          "paid_date": "2019-11-10"
+        },
+        "notes": "<div> Auspost - 02 07041 96417 30060 70995 </div>",
+        "created_at": "2020-07-22T03:13:59.666Z",
+        "updated_at": "2020-07-23T20:16:43.920Z",
+        "due_date": "2020-07-22T20:30:00.000Z",
+        "order_total": 28.6,
+        "order_subtotal": 26,
+        "payment_term_id": null,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Kylie",
+          "first_name": "Kylie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16236447,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16236448,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18409777,
+            "style_description": "Hickey Large",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 2,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 2,
+            "goods_status": "",
+            "unit_cost": 9.5,
+            "category": null
+          },
+          {
+            "id": 18409779,
+            "style_description": "Hickey Small ",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 2,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 2,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1863937,
+            "amount": 0,
+            "description": "Shipped with #10657 - TA Tiling - CP186 "
+          }
+        ],
+        "id": "4854827",
+        "customer_due_date": "2020-07-23T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-22T00:00:00.000+10:00",
+        "invoice_date": "2020-07-22T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-22T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/22/2020",
+        "formatted_customer_due_date": "07/23/2020",
+        "formatted_payment_due_date": "07/22/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39475d0%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 28.6,
+        "public_url": "https://www.printavo.com/invoice/2d4e084721077f043031e67d1904b8eb",
+        "pdf": "https://www.printavo.com/invoice/2d4e084721077f043031e67d1904b8eb.pdf",
+        "workorder": "https://www.printavo.com/invoices/4854827/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4854827/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 34331,
+        "orderstatus_id": 94819,
+        "public_hash": "689d0f5f20344a8bb576d3e5a97396c1",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/61/entries/22 View Link: https://www.cognitoforms.com/CapitalPrints1/HipPocketWorkwear#NkI8PbLFtGEimGKtIqJ0qEq6zEL9XawZsf-v-eNCTME$* </div>",
+        "order_nickname": "Laserlite - HP22",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10749,
+        "stats": {
+          "paid": false
+        },
+        "notes": "",
+        "created_at": "2020-07-22T03:42:00.259Z",
+        "updated_at": "2020-07-23T04:08:23.923Z",
+        "due_date": "2020-07-21T22:45:00.000Z",
+        "order_total": 273.9,
+        "order_subtotal": 249,
+        "payment_term_id": null,
+        "delivery_method_id": 63,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16250768,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16250769,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "Awaiting Art Approval",
+          "color": "#F56262"
+        },
+        "user": {
+          "name": "Trade | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18409856,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 18,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 18,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          },
+          {
+            "id": 18409857,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 18,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 18,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          },
+          {
+            "id": 18437800,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 18,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 18,
+            "goods_status": "",
+            "unit_cost": 3.5,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1863904,
+            "amount": 60,
+            "description": "Setup (simple) x 3 logos"
+          }
+        ],
+        "id": "4854854",
+        "customer_due_date": "2020-07-29T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-22T00:00:00.000+10:00",
+        "invoice_date": "2020-07-29T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-29T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/29/2020",
+        "formatted_customer_due_date": "07/29/2020",
+        "formatted_payment_due_date": "07/29/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea393e2c8%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 273.9,
+        "public_url": "https://www.printavo.com/invoice/689d0f5f20344a8bb576d3e5a97396c1",
+        "pdf": "https://www.printavo.com/invoice/689d0f5f20344a8bb576d3e5a97396c1.pdf",
+        "workorder": "https://www.printavo.com/invoices/4854854/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4854854/packing_slip"
+      },
+      {
+        "sales_tax": 10,
+        "total_untaxed": 0,
+        "discount_as_percentage": false,
+        "discount": 0,
+        "customer_id": 3197323,
+        "user_id": 20167,
+        "orderstatus_id": 152857,
+        "public_hash": "0e20ff46b76d4c974c458dc8fbdd2e68",
+        "production_notes": "<div>Admin Link: https://www.cognitoforms.com/CapitalPrints1/50/entries/184 View Link: https://www.cognitoforms.com/CapitalPrints1/HPGNewDecorationOrder#OU2ZugLTPyys6kQdpyLXhAZgU8ktLvxp188h4Hb_Nd0$* </div>",
+        "order_nickname": "Straightline Metal Roofing - CP184",
+        "approved": false,
+        "approved_name": null,
+        "visual_id": 10647,
+        "stats": {
+          "paid": false
+        },
+        "notes": "<div> Auspost Tracking: 60546305146095 </div>",
+        "created_at": "2020-07-16T00:45:48.155Z",
+        "updated_at": "2020-07-21T04:39:44.802Z",
+        "due_date": "2020-07-19T21:00:00.000Z",
+        "order_total": 32.45,
+        "order_subtotal": 29.5,
+        "payment_term_id": null,
+        "delivery_method_id": null,
+        "visual_po_number": "",
+        "customer": {
+          "full_name": "Jodie",
+          "first_name": "Jodie",
+          "last_name": "",
+          "company": "Hip Pocket Workwear - Geelong "
+        },
+        "order_addresses_attributes": [
+          {
+            "id": 16179553,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          },
+          {
+            "id": 16179554,
+            "address1": "170 Torquay Road",
+            "address2": "",
+            "city": "Grovedale",
+            "state": "Victoria",
+            "country": "AU",
+            "zip": "3216"
+          }
+        ],
+        "contractor_profile": {
+          "profile_address_attributes": {}
+        },
+        "expenses": {},
+        "orderstatus": {
+          "name": "TRADE - Released - Dispatched",
+          "color": "#D6D6D6"
+        },
+        "user": {
+          "name": "Orders | Capital Prints"
+        },
+        "lineitems_attributes": [
+          {
+            "id": 18294652,
+            "style_description": "",
+            "taxable": true,
+            "style_number": "",
+            "color": "",
+            "size_other": 2,
+            "size_xs": null,
+            "size_s": null,
+            "size_m": null,
+            "size_l": null,
+            "size_xl": null,
+            "size_2xl": null,
+            "size_3xl": null,
+            "size_4xl": null,
+            "size_5xl": null,
+            "total_quantities": 2,
+            "goods_status": "",
+            "unit_cost": 4.75,
+            "category": null
+          }
+        ],
+        "order_fees_attributes": [
+          {
+            "id": 1849798,
+            "amount": 20,
+            "description": "Setup (simple)"
+          },
+          {
+            "id": 1855026,
+            "amount": 0,
+            "description": "Shipped with dc outdoor projects - CP185"
+          }
+        ],
+        "id": "4825497",
+        "customer_due_date": "2020-07-21T00:00:00.000+10:00",
+        "custom_created_at": "2020-07-16T00:00:00.000+10:00",
+        "invoice_date": "2020-07-21T00:00:00.000+10:00",
+        "payment_due_date": "2020-07-21T00:00:00.000+10:00",
+        "formatted_invoice_date": "07/21/2020",
+        "formatted_customer_due_date": "07/21/2020",
+        "formatted_payment_due_date": "07/21/2020",
+        "url": "https://www.printavo.com/invoices/%23%3CElasticsearch::Model::Response::Result:0x00007fdea39344a8%3E",
+        "amount_paid": 0,
+        "amount_outstanding": 32.45,
+        "public_url": "https://www.printavo.com/invoice/0e20ff46b76d4c974c458dc8fbdd2e68",
+        "pdf": "https://www.printavo.com/invoice/0e20ff46b76d4c974c458dc8fbdd2e68.pdf",
+        "workorder": "https://www.printavo.com/invoices/4825497/workorder",
+        "packaging_slip": "https://www.printavo.com/invoices/4825497/packing_slip"
+      }
+    ]
+  }

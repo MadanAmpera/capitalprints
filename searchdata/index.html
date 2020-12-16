@@ -1,0 +1,74 @@
+<body onload="pageSetup(1)">
+  <div class="halfwidth">
+    <div class="input-group mb-2">
+      <input id="searchbox" type="text" class="form-control" placeholder="search previous orders" aria-label="search"
+        aria-describedby="basic-addon1" onkeypress="search()" />
+      <button type="button" class="btn btn-primary btn-sm" style="background:#00aeef;border-color:#00aeef"
+        onclick="searchClick()">
+        <i class="fa fa-search" aria-hidden="true"></i>
+      </button>
+    </div>
+    <div style="display:flex;">
+      <div id="sandbox"></div>
+      <button type="button" style="margin-left: 10px; height: 38px;"
+        class="btn btn-filter-primary btn-sm filter" onclick="showDates()">Filter</button>
+      <button type="button" style="margin-left: 10px; height: 38px;"
+        class="btn btn-clear-outline-primary btn-sm clear" onclick="clearDates()" >Clear</button>
+    </div>
+    <nav id="dateButtons" aria-label="Page navigation example" style="display: none;">
+      <ul class="pagination">
+        <li id="dt1" class="page-item">
+          <a id="d1" class="page-link" href="#">1</a>
+        </li>
+        <li id="dt2" class="page-item">
+          <a id="d2" class="page-link" href="#">#</a>
+        </li>
+        <li id="dt3" class="page-item">
+          <a id="d3" class="page-link" href="#">#</a>
+        </li>
+        <li id="dt4" class="page-item">
+          <a id="d4" class="page-link" href="#">#</a>
+        </li>
+        <li id="dt5" class="page-item">
+          <a id="d5" class="page-link" href="#">#</a>
+        </li>
+        <li id="dt6" class="page-item">
+          <a id="d6" class="page-link" href="#">#</a>
+        </li>
+        <li id="dt7" class="page-item">
+          <a id="d7" class="page-link" href="#">L</a>
+        </li>
+      </ul>
+    </nav>
+
+    <table id="orders" class="table table-striped table-sm"></table>
+
+    <nav id="pages" aria-label="Page navigation example">
+      <ul class="pagination">
+        <li id="li1" class="page-item">
+          <a id="1" class="page-link" href="#">1</a>
+        </li>
+        <li id="li2" class="page-item">
+          <a id="2" class="page-link" href="#">#</a>
+        </li>
+        <li id="li3" class="page-item">
+          <a id="3" class="page-link" href="#">#</a>
+        </li>
+        <li id="li4" class="page-item">
+          <a id="4" class="page-link" href="#">#</a>
+        </li>
+        <li id="li5" class="page-item">
+          <a id="5" class="page-link" href="#">#</a>
+        </li>
+        <li id="li6" class="page-item">
+          <a id="6" class="page-link" href="#">#</a>
+        </li>
+        <li id="li7" class="page-item">
+          <a id="7" class="page-link" href="#">L</a>
+        </li>
+      </ul>
+    </nav>
+    <p id="flag" style="display: none;">flag</p>
+    <p id="currentDate" style="display: none;">0</p>
+  </div>
+</body>
